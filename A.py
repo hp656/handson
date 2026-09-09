@@ -1,2 +1,3 @@
 class A:
-    pass
+    def foo:
+        pass
